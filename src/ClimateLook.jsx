@@ -1,5 +1,5 @@
 import SearchBox from "./SearchBox";
-import InfoBox from "./Infobox";
+import InfoBox from "./InfoBox";
 import { useState } from "react";
 
 export default function ClimateLook() {
